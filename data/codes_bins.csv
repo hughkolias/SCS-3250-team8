@@ -1,0 +1,124 @@
+combo code,code bin
+Priority One - Train in Contact With Person,Accident
+Disorderly Patron,Disorderly Patron
+Misc,Misc
+Unsanitary Vehicle,Unsantiary Vehicle
+Passenger Assistance Alarm Activated - No Trouble Found,Alarm - No Trouble Found
+No Operator Immediately Available - Not E.S.A. Related ,Operator
+Operator Overspeeding,Operator
+Graffiti / Scratchiti,Vandalism
+Misc. Transportation Other - Employee Non-Chargeable,Misc
+Miscellaneous Speed Control,Mechanical
+Emergency Alarm Station Activation,Alarm - No Trouble Found
+Injured or ill Customer (On Train) - Medical Aid Refused,Ill/Injured Patron
+Passenger Other,Alarm - No Trouble Found
+Injured or ill Customer (On Train) - Transported,Ill/Injured Patron
+Fire/Smoke Plan B - Source TTC,Fire/Smoke
+Operator Violated Signal,Operator
+Insulated Joint Related Problem,Misc
+Escalator/Elevator Incident,Accessibility
+Unauthorized at Track Level,Trespassing
+Assault / Patron Involved,Crime
+Door Problems - Faulty Equipment,Mechanical
+Rail Cars & Shops Opr. Error,Operator
+Operator Overshot Platform,Operator
+Door Problems - Debris Related,Mechanical
+No Operator Immediately Available ,Operator
+Propulsion System,Mechanical
+Ice / Snow Related Problems,Weather
+Operator Not In Position,Operator
+Miscellaneous General Delays,Misc
+Station Stairway Incident ,Accessibility
+Signals or Related Components Failure ,Mechanical
+Signals Track Weather Related,Weather
+Miscellaneous Other,Misc
+ECD / Line Mechanic Related Prob.,Operator
+Mainline Storage,Misc
+Equipment - No Trouble Found,Mechanical
+Door Problems - Passenger Related,Disorderly Patron
+No Equipment Available,Mechanical
+Chopper Control,Mechanical
+Track Circuit Problems - Re: Defective Bolts/Bonding,Mechanical
+Assault / Employee Involved,Crime
+Force Majeure,Accident
+S/E/C Department Other,Misc
+Signal Problem - No Trouble,Mechanical
+Transportation Department - Other,Misc
+Central Office Signalling System,Mechanical
+Signals - Track Circuit Problems,Mechanical
+RC&S Other,Mechanical
+Storm Trains,Weather
+RC&S Maintenance Error - (Human),Operator
+Signals - Train Stops,Mechanical
+TR Cab Doors,Mechanical
+Weather Reports / Related Delays,Weather
+Collector Booth Alarm Activated,Alarm - No Trouble Found
+Sexual Assault,Crime
+Bomb Threat,Bomb
+Supervisory Error,Operator
+Brakes,Mechanical
+Speed Control Equipment  ,Mechanical
+Held By Polce - Non-TTC Related,Crime
+Low Voltage,Mechanical
+Work Zone Problems - Track,Mechanical
+Doors Open in Error,Mechanical
+Training Department Related Delays,Operator
+Station Other,Misc
+Compressed Air,Mechanical
+Transit Control Related Problems,Mechanical
+Fire/Smoke Plan C,Fire/Smoke
+Signal Control Problem - Signals,Mechanical
+Crew Unable to Maintain Schedule,Operator
+Air Conditioning,Mechanical
+Consequential Delay (2nd Delay Same Fault),Consequential Delay
+Body,Body
+Fire/Smoke Plan A,Fire/Smoke
+Trucks,Mechanical
+Track Switch Failure - Signal Related Problem,Mechanical
+Work Vehicle,Mechanical
+Work Refusal,Operator
+Warning Alarm Systems,Mechanical
+Train Controls Improperly Shut Down,Mechanical
+Traction Power Rail Related,Mechanical
+Two Drum Switch Keys Activated,Mechanical
+T & S Operator Related Problems,Operator
+Couplers,Misc
+T&S Other,Misc
+Misc. Engineering & Construction Related Problems,Misc
+Robbery,Crime
+Track Switch Failure - Track Related Problem,Mechanical
+SCADA Related Problems ,Mechanical
+Rail Related Problem,Mechanical
+Subway Car Radio Fault ,Mechanical
+Track Level Debris - Controllable,Operator
+Trainline System,Mechanical
+Yard/Carhouse Related Problems,Yard
+Signal Control Problem - Track,Mechanical
+Lighting System,Mechanical
+No Operator Immediately Available,Operator
+Work Zone Problems - Signals,Mechanical
+Alternating Current,Mechanical
+Subway Radio System Fault ,Mechanical
+Structure Related Problem,Mechanical
+Traction Power or Related Components Failure,Mechanical
+High Voltage,Mechanical
+Traction Motors,Mechanical
+Injured or ill Customer (In Station) - Transported,Ill/Injured Patron
+Injured or ill Customer (In Station) - Medical Aid Refused,Ill/Injured Patron
+Suspicious Package,Bomb
+T & S Contractor Problems,Operator
+Overhead Door Contact,Mechanical
+EAS Failure                               ,Mechanical
+T&S Related Problem - NTF,Misc
+OPTO RC&S Non-Train Door Monitoring,Mechanical
+OPTO (COMMS) Train Door Monitoring,Mechanical
+Divisional Clerk Related,Mechanical
+Injured Employee,Ill/Injured Patron
+OPTO Operator Related,Operator
+Fire/Smoke Plan B - Source External to TTC,Fire/Smoke
+ATC Project,Mechanical
+ATC Signals Other,Mechanical
+ATC RC&S Equipment,Mechanical
+ATC Operator Related,Operator
+Signals Zone Countroller Failure,Operator
+Signals Axle Counter Block Failure,Mechanical
